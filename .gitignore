@@ -1,0 +1,30 @@
+
+# Azure Functions localsettings file
+local.settings.json
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+**/bin/
+**/obj/
+.vs/
+
+# any user specific files
+*.user
+_user*
+*.UserSecrets.json
+**/script.sql
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+**/.idea/

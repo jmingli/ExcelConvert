@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExcelConvert": {
+      "commandName": "Project",
+      "commandLineArgs": "--convert quick-book-balance-sheet --i \"C:\\test-sheet.xlsx\""
+    }
+  }
+}
